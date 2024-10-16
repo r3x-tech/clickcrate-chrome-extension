@@ -80,6 +80,6 @@ export default defineManifest({
     'https://docs.google.com/*',
     'https://www.instagram.com/*',
     'https://www.notion.so/*',
-    'https://github.com/*', // Added GitHub URL
+    'https://github.com/*',
   ],
 });
